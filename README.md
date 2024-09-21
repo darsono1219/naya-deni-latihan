@@ -7,30 +7,35 @@
    **Naya Wicaksana XI RPL 1**
 
 ## membuat clone
-***git clone <link dari github>***
+- [x] ***git clone <link dari github>***
 
 ## mengambil perubahan terbaru
-***git pull origin <branch-nya>***
+- [x] ***git pull origin <branch-nya>***
 
 ## menguplod ke git
 
-***git add -A***
+- [x] ***git add -A***
 (digunakan untuk menambahkan semua perubahan yang ada di dalam repository ke staging area)
 
-***git status***
+- [x] ***git status***
+
 (digunakan untuk menampilkan status dari working directory dan staging area)
 
-***git commit -m "pesan yang diinginkan***
+- [x] ***git commit -m "pesan yang diinginkan***
+
 (digunakan untuk menyimpan perubahan yang ada di staging area ke dalam repository lokal)
 
-***git push origin branch***
+- [x] ***git push origin branch***
+
 digunakan untuk mengirim (push) commit yang ada di repository lokal ke repository remote
 
 
 # melihat branch dan membuat branch
 
-***git branch nama-branch-baru***
+- [x]***git branch nama-branch-baru***
+
 (membuat branch baru) 
 
-*** git checkout nama_branch ***
+- [x]*** git checkout nama_branch ***
+
 (berpindah branch)
