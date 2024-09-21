@@ -1,10 +1,10 @@
 # aplikasi ini menggunakan php dasar untuk latihan 
 
 ## front-and
-   **Deni Permana XI RPL 2**
+   1. **Deni Permana XI RPL 2**
 
 ## Back-and
-   **Naya Wicaksana XI RPL 1**
+   1. **Naya Wicaksana XI RPL 1**
 
 ## membuat clone
 - [x] ***git clone <link dari github>***
@@ -15,6 +15,7 @@
 ## menguplod ke git
 
 - [x] ***git add -A***
+
 (digunakan untuk menambahkan semua perubahan yang ada di dalam repository ke staging area)
 
 - [x] ***git status***
@@ -32,10 +33,10 @@ digunakan untuk mengirim (push) commit yang ada di repository lokal ke repositor
 
 # melihat branch dan membuat branch
 
-- [x]***git branch nama-branch-baru***
+- [x] ***git branch nama-branch-baru***
 
 (membuat branch baru) 
 
-- [x]*** git checkout nama_branch ***
+- [x] *** git checkout nama_branch ***
 
 (berpindah branch)
