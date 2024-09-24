@@ -10,21 +10,20 @@
     <div class="container">
     <!-- konten di sini -->
     <div class="card mt-5">
-        <div class="card-header bg-info text-white">
+        <div class="card-header bg-info text-white"> 
             Rumus Persegi Panjang
         </div>
         <div class="card-body">
-        <form>
+        <form action="proses.php" method="POST">
             <div class="mb-3">
                 <label class="form-label">Panjang</label>
-                <input type="" class="form-control"  placeholder="isi dengan panjang persegi">
+                <input type="number" name="panjang" class="form-control"  placeholder="isi dengan panjang persegi">
             </div>
             <div class="mb-3">
                 <label class="form-label">Lebar</label>
-                <input type="" class="form-control"  placeholder="isi dengan lebar persegi">
+                <input type="number" name="lebar" class="form-control"  placeholder="isi dengan lebar persegi">
             </div>
-            <input type="checkbox" class="btn-check" id="btn-check-2" checked autocomplete="off">
-            <label class="btn btn-primary" for="btn-check-2">kirim</label>
+            <button type="submit" class="btn btn-primary">Submit</button>
         </form>
         </div>
     </div>
